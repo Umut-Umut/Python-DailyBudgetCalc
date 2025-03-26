@@ -1,0 +1,16 @@
++toplam butce
++gunluk butce
+
+harcamalar girilecek.
+bilgileri kaydedecek
+
+her gun gunluk butce hesaplanip sifirlanacak ve toplam butce guncellenecek.
+
+bir ayi baz alacak.
+ay sonunda yeni butce isteyecek.
+
+her acilista yeniden hesaplayacak.
+
+fonksyionlar
+=update gun aylik
+=calc
